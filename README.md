@@ -1,4 +1,4 @@
 # Go_Tour_practice
-This project contains my exercises of `A tour of Go`.
-A tour of Go:[https://tour.go-zh.org](https://tour.go-zh.org)
+This project contains my exercises of `A Tour of Go`.
+A Tour of Go:[https://tour.go-zh.org](https://tour.go-zh.org)
 
