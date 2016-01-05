@@ -23,7 +23,7 @@ func WordCount(s string) map[string]int {
 				count += 1
 				m[res_strings[i]] = count
 				continue
-			}else {
+			} else {
 				count = 1
 				m[res_strings[i]] = count
 			}
